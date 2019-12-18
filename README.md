@@ -4,6 +4,8 @@
 
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FMicrosoft%2Faad-hybrid-lab%2Fmaster%2Faad-hybrid-lab%2Fdeploy.json" target="_blank"><img src="http://azuredeploy.net/deploybutton.png"/></a>
 
+<a href="https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Faaronba%2Faad-hybrid-lab%2Fmaster%2Faad-hybrid-lab%2Fdeploy.json" target="_blank"><img src="http://azuredeploy.net/AzureGov.png"/></a>
+
 ## Details
 * Deploys the following infrastructure:
  * Virtual Network
